@@ -1,0 +1,16 @@
+{
+  "sheetsById": {
+    "Chuk Sheet": {
+      "staticOverrides": {
+        "byObject": {
+          "chuk": {
+            "position": { "x": -3, "y": -0.9, "z": 2.265385775453323 }
+          },
+          "Light 2": { "position": { "x": 1, "y": 0, "z": 0.8979497691498677 } }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": ["eq0Z9eRXiqBQfs0H", "epACP3hY4b4c8sfd"]
+}
